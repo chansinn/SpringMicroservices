@@ -1,8 +1,0 @@
-zuul:
-  routes:
-    myserver_mypath:
-      path: /chansinwebservices/**
-      serviceId: ChansinWebProject
-
-server:
-  port: 8079

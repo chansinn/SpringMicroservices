@@ -1,3 +1,0 @@
-server.port=8091
-eureka.client.serviceUrl.defaultZone:http://localhost:9091/eureka/
-eureka.instance.instance-id=:${spring.application.name}:${spring.application.instance_id:${server.port}}}

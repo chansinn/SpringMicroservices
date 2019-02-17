@@ -1,9 +1,0 @@
-package com.chansin.web.client;
-
-import org.springframework.cloud.openfeign.FeignClient;
-
-@FeignClient(name="ChansinWebProject")
-public interface EmployeeFiegnClient {
-	
-
-}

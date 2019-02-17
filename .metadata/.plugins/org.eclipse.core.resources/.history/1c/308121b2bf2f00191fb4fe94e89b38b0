@@ -1,5 +1,0 @@
-package com.chansin.web.zuul.filters;
-
-public class RouteFilter {
-
-}

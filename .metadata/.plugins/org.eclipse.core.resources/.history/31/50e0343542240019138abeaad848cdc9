@@ -1,2 +1,0 @@
-#server.port=8091
-eureka.client.serviceUrl.defaultZone:chansinwebproject.cfapps.io:5e612c7f-7bef-41d9-79fd-43f5
