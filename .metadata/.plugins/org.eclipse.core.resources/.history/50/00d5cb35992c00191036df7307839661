@@ -1,0 +1,8 @@
+package com.chansin.web.fiegn;
+
+
+public interface ChansinWebProxy {
+	
+	
+
+}

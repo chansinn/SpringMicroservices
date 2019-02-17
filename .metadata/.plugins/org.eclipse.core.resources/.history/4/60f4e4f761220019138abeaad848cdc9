@@ -1,0 +1,4 @@
+applications:
+  - name: ChansinEureka-Server
+    buildpack: java_buildpack
+    path: target/ChansinWebClient-0.0.1-SNAPSHOT.war

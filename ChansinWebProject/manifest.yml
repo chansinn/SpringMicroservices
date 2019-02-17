@@ -1,0 +1,8 @@
+
+applications:
+  - name: ChansinWebProject
+    buildpack: java_buildpack
+    path: target/ChansinWebProject-0.0.1-SNAPSHOT.war
+    services:    - mysql
+    - eureka-service-reg
+  

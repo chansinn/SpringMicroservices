@@ -1,0 +1,6 @@
+#zuul.routes.chansinwebservices.path=
+eureka.client.serviceUrl.defaultZone=http://localhost:9091/eureka
+server.port=8079
+zuul.ignored-services=*
+zuul.routes.catalogservice.path=/chansinwebservices/**
+zuul.routes.catalogservice.serviceId=ChansinWebProject

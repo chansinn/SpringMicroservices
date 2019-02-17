@@ -1,0 +1,30 @@
+package com.chansin.web;
+
+import java.io.IOException;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.Bean;
+import org.springframework.web.client.RestClientException;
+
+import com.chansin.web.client.ClientRequestController;
+
+
+@SpringBootApplication
+public class ChansinWebClientApplication {
+
+	public static void main(String[] args) throws RestClientException, IOException {
+		ApplicationContext ctx =SpringApplication.run(ChansinWebClientApplication.class, args);
+		ClientRequestController reqclient = ctx.getBean(ClientRequestController.class);
+		reqclient.getEmployee();
+		
+	}
+	
+	@Bean
+	ClientRequestController clientRequestController() {
+		return new ClientRequestController();
+	}
+
+}
+

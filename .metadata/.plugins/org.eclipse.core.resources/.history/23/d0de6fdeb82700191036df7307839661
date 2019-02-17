@@ -1,0 +1,71 @@
+package com.chansin.web.controller;
+
+import java.util.Optional;
+import java.util.function.Supplier;
+
+import javax.websocket.server.PathParam;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.chansin.web.dao.EmployeeRepository;
+import com.chansin.web.model.Employee;
+
+@RestController
+public class WebRequestHandler {
+	
+	@Autowired
+	private EmployeeRepository employeeRepository;
+	
+	@RequestMapping(value="/getEmployeeDetails", method=RequestMethod.GET)
+	public Iterable<Employee> getEmployeeDetails() {
+		
+		return employeeRepository.findAll();
+		
+	}
+	
+	@RequestMapping(value="/getSingleEmployee", method=RequestMethod.GET)
+	@HystrixCommand(fallbackMethod = "getDataFallBack")
+	public Employee getSingleEmployee(@RequestParam int id) {
+		Optional<Employee> emp = employeeRepository.findById(id);
+		Employee employee = emp.get();
+		return employee;
+		
+		
+	}
+	
+	
+	
+	@RequestMapping(value="/addEmployee",method=RequestMethod.POST)
+	public String addEmployee(@RequestBody Employee emp) {
+		
+		Employee employee = new Employee();
+		employee.setAge(emp.getAge());
+		employee.setName(emp.getName());
+		employee.setSex(emp.getSex());
+		employee.setDepartment(emp.getDepartment());
+		
+		employeeRepository.save(employee);
+		
+		
+		return "Saved";
+		
+	}
+	
+ public Employee getDataFallBack() {
+		
+		Employee emp = new Employee();
+		emp.setName("fallback-emp");
+		emp.setAge(0);
+		emp.setSex("NA");
+		emp.setDepartment("FB Dept.");
+
+		return emp;
+		
+	}
+
+}

@@ -1,0 +1,383 @@
+<root>
+<add-item item-descriptor="price"
+	id="pag-sku-01080-68702-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[22050]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[22050]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[22050]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-01080-68702]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-123-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[88200]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[88200]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[88200]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-123]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-1231-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[88200]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[88200]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[88200]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-1231]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-12369-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[55125]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[55125]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[55125]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-12369]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-12369-DEF-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[1102.5]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[1102.5]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[1102.5]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-12369-DEF]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-123-CL-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[165375]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[165375]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[165375]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-123-CL]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-123-CL-D-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[165375]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[165375]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[165375]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-123-CL-D]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-123-MANUAL-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[165375]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[165375]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[165375]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-123-MANUAL]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-51550-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[16537.5]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[16537.5]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[16537.5]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-51550]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-51553-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[4961.25]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[4961.25]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[4961.25]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-51553]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-5182-9733-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[9922.5]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[9922.5]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[9922.5]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-5182-9733]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-5190-0468-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[16537.5]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[16537.5]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[16537.5]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-5190-0468]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-5190-9070-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[2535.75]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[2535.75]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[2535.75]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-5190-9070]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-52000-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[6615]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[6615]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[6615]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-52000]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-54000-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[17419.5]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[17419.5]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[17419.5]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-54000]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-55400-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[15765.75]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[15765.75]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[15765.75]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-55400]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-56000-P-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[17640]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[17640]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[17640]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-56000-P]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-82518-Q-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[4410]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[4410]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[4410]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-82518-Q]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-82551-G-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[4410]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[4410]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[4410]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-82551-G]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-82552-Q-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[11025]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[11025]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[11025]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-82552-Q]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-AM-200-1-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[1102.5]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[1102.5]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[1102.5]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-AM-200-1]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-ATS-120-1-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[661.5]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[661.5]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[661.5]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-ATS-120-1]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-CB-681MN-1-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[2976.75]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[2976.75]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[2976.75]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-CB-681MN-1]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-CB-682MN-1-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[1874.25]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[1874.25]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[1874.25]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-CB-682MN-1]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-CBK-680A-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[5733]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[5733]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[5733]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-CBK-680A]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-FLBA-006-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[35059.5]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[35059.5]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[35059.5]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-FLBA-006]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-IAA-004-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[2205]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[2205]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[2205]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-IAA-004]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-ICC-759-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[115983]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[115983]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[115983]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-ICC-759]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-ICC-759-1-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[22932]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[22932]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[22932]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-ICC-759-1]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-ICC-759-2-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[22932]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[22932]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[22932]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-ICC-759-2]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-ICC-759-3-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[22932]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[22932]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[22932]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-ICC-759-3]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-ICC-759-4-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[22932]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[22932]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[22932]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-ICC-759-4]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-ICC-759-5-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[22932]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[22932]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[22932]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-ICC-759-5]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-IQC-100-5-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[2535.75]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[2535.75]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[2535.75]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-IQC-100-5]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-IST-230-1-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[1653.75]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[1653.75]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[1653.75]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-IST-230-1]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-M11000-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[1653.75]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[1653.75]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[1653.75]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-M11000]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-M13001-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[2205]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[2205]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[2205]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-M13001]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-TRP-110-1-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[11025]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[11025]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[11025]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-TRP-110-1]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-TRP-175-1-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[16537.5]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[16537.5]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[16537.5]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-TRP-175-1]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-RHH-016-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[17419.5]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[17419.5]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[17419.5]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-RHH-016]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-EPA-1053-1-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[15765.75]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[15765.75]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[15765.75]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-EPA-1053-1]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-DWM-588-1-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[8268.75]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[8268.75]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[8268.75]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-DWM-588-1]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-ICP-025-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[9922.5]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[9922.5]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[9922.5]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-ICP-025]]></set-property>
+</add-item>
+<add-item item-descriptor="price"
+	id="pag-sku-ICP-025-25-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[12678.75]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[12678.75]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[12678.75]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-ICP-025-25]]></set-property>
+</add-item>
+<add-item item-descriptor="price" id="pag-sku-RHH-014-04JP_JP">
+	<set-property name="listPriceDefault"><![CDATA[15765.75]]></set-property>
+	<set-property name="effectiveDate"><![CDATA[01/06/2019 00:00:00]]></set-property>
+	<set-property name="priceList"><![CDATA[pList_LSCA_04JP]]></set-property>
+	<set-property name="listPrice"><![CDATA[15765.75]]></set-property>
+	<set-property name="effectivePrice"><![CDATA[15765.75]]></set-property>
+	<set-property name="skuId"><![CDATA[ag-sku-RHH-014]]></set-property>
+</add-item>
+</root>

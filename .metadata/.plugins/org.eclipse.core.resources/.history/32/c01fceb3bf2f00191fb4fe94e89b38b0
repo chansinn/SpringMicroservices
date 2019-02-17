@@ -1,0 +1,5 @@
+package com.chansin.web.zuul.filters;
+
+public class PostFilter {
+
+}

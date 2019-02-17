@@ -1,0 +1,5 @@
+zuul:
+routes:
+    myserver_mypath:
+      path: /mypath/**
+      serviceId: myserver
